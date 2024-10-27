@@ -37,7 +37,7 @@ const Richard = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,react,tailwind,nodejs,express,django,postgres,MongoDB,git,aws,linux,vscode,figma,firebase,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,react,tailwind,nodejs,express,django,postgres,mongodb,git,aws,linux,vscode,figma,firebase,redux)](https://skillicons.dev)
 
 </div>
 

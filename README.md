@@ -1,74 +1,79 @@
 <h1 align="center">Hello World! 👋 I'm Richard!</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imrichardwu&color=brightgreen&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/imrichardwu?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=imrichardwu&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/imrichardwu?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+</div>
 
-<p align="center">
-  I'm a sophomore at <strong>University of Alberta</strong>, studying <strong>Computer Science</strong> in Edmonton, AB, Canada.<br />
-  Passionate about the digital world and excited to explore new technologies!
-</p>
+<div align="center">
+  <p>
+    I'm a sophomore at <strong>University of Alberta</strong>, studying <strong>Computer Science</strong> in Edmonton, AB, Canada.<br>
+    Passionate about the digital world and excited to explore new technologies!
+  </p>
+</div>
 
-<hr />
+<div align="center">
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
 
 ## 👨‍💻 About Me
 
+<img align="right" src="https://raw.githubusercontent.com/mikecodeur/mikecodeur/main/code.gif" width="350" height="200" />
+
 - 📍 Hailing from **Calgary**, currently based in **Edmonton, AB**
 - 🌱 Learning **C++** and working on an **AI game bot**
-- 🌐 Explore my journey on my [**Personal Website**](https://richardwu.netlify.app/)
+- 🚀 Always eager to learn and explore new technologies
+- 💡 Passionate about solving complex problems
+- 🌐 Check out my work at [**richardwu.netlify.app**](https://richardwu.netlify.app/)
 
-<hr />
+## 🛠️ Tech Stack
 
-## 🛠️ My Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-
-
-<hr />
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts" alt="Languages" />
+  
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
+  
+  <h3>Backend & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,linux,vscode" alt="Tools" />
+</div>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imrichardwu&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imrichardwu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrichardwu&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrichardwu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrichardwu&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<hr />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrichardwu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/imrichardwu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Richard9@ualberta.ca">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+  <a href="https://richardwu.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<div align="center">
+  <h4>🎯 Profile Visits</h4>
+  <img src="https://profile-counter.glitch.me/imrichardwu/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
+<div align="center">
+  <i>Happy Coding! 👨‍💻</i>
+</div>

@@ -2,7 +2,7 @@
 
 I'm a sophomore at the **University of Alberta** studying **Computer Science** in Edmonton, AB, Canada. I'm fascinated by the digital world and love learning new technologies!
 
-![Profile Views](https://komarev.com/ghpvc/?username=imrichardwu&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=imrichardwu&color=brightgreen) ![GitHub followers](https://img.shields.io/github/followers/imrichardwu?label=Followers&style=social)
 
 ---
 
@@ -16,7 +16,7 @@ I'm a sophomore at the **University of Alberta** studying **Computer Science** i
 
 ## 🛠️ Tech Stack
 
-![Tech Banner](./path-to-your-uploaded-image.png)
+![Tech Banner](./path-to-your-uploaded-image.png) <!-- Add your new image path here -->
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

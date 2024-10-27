@@ -13,7 +13,7 @@
 
   ### `console.log('Hello World! 👋')`
 
-  **Computer Science Student | Software Developer | Game Enthusiast**
+  **Computer Science Student | Software Developer | Game dev Enthusiast**
 
 </div>
 

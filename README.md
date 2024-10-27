@@ -12,7 +12,7 @@
 </p>
 
 ### `console.log('Hello World! 👋')`
-**Computer Science Student | Full Stack Developer | AI Enthusiast**
+**Computer Science Student | Software Developer | Game Enthusiast**
 
 </div>
 
@@ -34,20 +34,7 @@ const richard = {
 
 <div align="center">
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,cpp)](https://skillicons.dev)
-
-### Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,vue,vite)](https://skillicons.dev)
-
-### Backend Development
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mongodb)](https://skillicons.dev)
-
-### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,linux,vscode)](https://skillicons.dev)
-
-### Design & Others
-[![My Skills](https://skillicons.dev/icons?i=figma,firebase,redux,graphql,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,react,tailwind,nodejs,express,django,git,aws,linux,vscode,figma,firebase,redux,postgres,mongodb)](https://skillicons.dev)
 
 </div>
 
@@ -55,7 +42,7 @@ const richard = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=rust,golang,kubernetes,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
 
 </div>
 

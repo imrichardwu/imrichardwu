@@ -1,24 +1,27 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Richard%20Wu&fontSize=80&animation=fadeIn&fontAlignY=38)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Richard%20Wu&fontSize=80&animation=fadeIn&fontAlignY=38)
 
-<p align="center">
-  <a href="https://github.com/imrichardwu">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=imrichardwu&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
-  </a>
-  <a href="https://github.com/imrichardwu?tab=followers">
-    <img alt="followers" src="https://img.shields.io/github/followers/imrichardwu?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=2C3239&color=7F3FBF"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/imrichardwu">
+      <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=imrichardwu&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+    </a>
+    <a href="https://github.com/imrichardwu?tab=followers">
+      <img alt="GitHub Followers" src="https://img.shields.io/github/followers/imrichardwu?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=2C3239&color=7F3FBF" />
+    </a>
+  </p>
 
-### `console.log('Hello World! 👋')`
-**Computer Science Student | Software Developer | Game Enthusiast**
+  ### `console.log('Hello World! 👋')`
+
+  **Computer Science Student | Software Developer | Game Enthusiast**
 
 </div>
 
+---
+
 ## 🚀 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="Coding gif"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="Coding animation gif" />
 
 ```typescript
 const richard = {

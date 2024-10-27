@@ -38,14 +38,6 @@ const richard = {
 
 </div>
 
-## 🎯 Currently Learning
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
-
-</div>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -72,15 +64,6 @@ const richard = {
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imrichardwu&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
-</div>
-
-<div align="center">
-  <h3>✨ Visitors</h3>
-  <img src="https://profile-counter.glitch.me/imrichardwu/count.svg" alt="Visitor Count"/>
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
 

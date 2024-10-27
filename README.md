@@ -41,17 +41,6 @@ const richard = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=imrichardwu&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imrichardwu&theme=radical&border_radius=10" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=imrichardwu&hide=html&layout=compact&theme=radical&border_radius=10" alt="top langs" />
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">

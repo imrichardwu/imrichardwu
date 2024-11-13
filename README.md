@@ -21,8 +21,6 @@
 
 ## 🚀 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="Coding animation gif" />
-
 ```typescript
 const Richard = {
   education: "University of Alberta - Bsc Computer Science",

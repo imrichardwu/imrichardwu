@@ -60,7 +60,3 @@ const Richard = {
 <br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
-
-<div align="center">
-  <i>Happy Coding! 🚀</i>
-</div>

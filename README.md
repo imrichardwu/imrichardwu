@@ -26,7 +26,7 @@
 const Richard = {
   education: "University of Alberta - Bsc Computer Science",
   location: "Edmonton, AB 📍",
-  currentProject: "HTTP/1.1 Protocol 🤖",
+  currentProject: "Steadtrack 📊",
   passion: "Solving Complex Problems 💡",
   portfolio: "richardwu.netlify.app"
 };

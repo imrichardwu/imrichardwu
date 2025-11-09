@@ -40,23 +40,6 @@ const Richard = {
     <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,go,html,css,react,nextjs,express,django,tailwind,postgres,mysql,mongodb,redis,aws,gcp,docker,kubernetes,git,linux" />
   </a>
 </div>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=imrichardwu&show_icons=true&rank_icon=github&theme=transparent&hide_border=true"
-    alt="Richard Wu GitHub Stats"
-  />
-</p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=imrichardwu&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrichardwu&layout=compact&theme=transparent&hide_border=true"
-       alt="Top Languages" />
-</p>
-
 
 </div>
 

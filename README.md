@@ -37,7 +37,7 @@ const Richard = {
 <h2 align="left">💻 Tech Stack</h2>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,go,html,css,react,nextjs,express,django,tailwind,postgres,mysql,mongodb,redis,aws,gcp,docker,kubernetes,git,linux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,go,html,css,react,nextjs,express,django,tailwind,postgres,mysql,mongodb,redis,graphql,aws,gcp,docker,kubernetes,git,linux" />
   </a>
 </div>
 

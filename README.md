@@ -25,7 +25,6 @@
 ```typescript
 const Richard = {
   education: "University of Alberta - Bsc Computer Science",
-  location: "Edmonton, AB 📍",
   currentProject: "Rust poker game card 🃏",
   passion: "Solving Complex Problems 💡",
   portfolio: "richardwu.netlify.app"

@@ -27,7 +27,7 @@ const Richard = {
   education: "University of Alberta - Bsc Computer Science",
   currentProject: "Rust poker game card 🃏",
   passion: "Solving Complex Problems 💡",
-  portfolio: "richardwu.netlify.app"
+  portfolio: "http://imrichardwu.dev/"
 };
 ```
 

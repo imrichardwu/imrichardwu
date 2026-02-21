@@ -29,18 +29,18 @@ const Richard = {
 
 ## 📊 GitHub Activity
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td align="center" style="padding: 12px;">
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=imrichardwu&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=imrichardwu&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true"
         height="160"
         alt="GitHub Stats"
       />
     </td>
-    <td>
+    <td align="center" style="padding: 12px;">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=imrichardwu&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=imrichardwu&theme=tokyonight&hide_border=true"
         height="160"
         alt="GitHub Streak"
       />

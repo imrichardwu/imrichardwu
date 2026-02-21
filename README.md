@@ -17,12 +17,12 @@
 
 ## 🚀 About Me
 
-```
+```typescript
 const Richard = {
-  education: "University of Alberta - BSc Computer Science",
+  education: "University of Alberta - Bsc Computer Science",
   currentProject: "Rust poker game card 🃏",
-  passion: "Solving complex problems",
-  portfolio: "https://imrichardwu.dev"
+  passion: "Solving Complex Problems 💡",
+  portfolio: "http://imrichardwu.dev/"
 };
 ```
 ---

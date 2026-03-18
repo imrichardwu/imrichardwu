@@ -51,4 +51,4 @@ const Richard = {
 
 ## 💻 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,java,rust,c,cpp,go,html,css,react,nextjs,express,fastapi,django,tailwind,postgres,mysql,mongodb,redis,graphql,aws,gcp,docker,kubernetes,git,linux)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,java,rust,c,cpp,go,html,css,react,nextjs,express,fastapi,django,tailwind,postgres,mysql,mongodb,redis,graphql,terraform,aws,gcp,docker,kubernetes,git,linux)

@@ -2,7 +2,7 @@
 
 # Richard Wu
 
-**Computer Science Student · Software Engineer · Game Dev Enthusiast**
+**Computer Science Student · Software Engineer · Tech Enthusiast**
 
 [Portfolio](https://imrichardwu.dev) ·
 [LinkedIn](https://www.linkedin.com/in/imrichardwu/) ·

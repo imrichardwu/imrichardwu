@@ -8,8 +8,6 @@
 [LinkedIn](https://www.linkedin.com/in/imrichardwu/) ·
 [Email](mailto:Richard9@ualberta.ca)
 
-![Views](https://komarev.com/ghpvc/?username=imrichardwu&style=flat&label=views&color=2C3239)
-
 </div>
 
 ---

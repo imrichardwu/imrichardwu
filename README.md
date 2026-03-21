@@ -1,6 +1,6 @@
 <div align="center">
 
-# Richard Wu
+# Hey, I'm Richard 👋
 
 **Computer Science Student · Software Engineer · Tech Enthusiast**
 

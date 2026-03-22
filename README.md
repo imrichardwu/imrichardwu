@@ -2,7 +2,7 @@
 
 # Hey, I'm Richard 👋
 
-**Computer Science Student · Software Engineer · Tech Enthusiast**
+**Student · Software Engineer · Tech Enthusiast**
 
 [Portfolio](https://imrichardwu.dev) ·
 [LinkedIn](https://www.linkedin.com/in/imrichardwu/) ·

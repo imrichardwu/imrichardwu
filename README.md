@@ -17,7 +17,7 @@
 ```typescript
 const Richard = {
   education: "University of Alberta - Bsc Computer Science",
-  currentProject: "Rust poker game card 🃏",
+  currentProject: "Compiler 👾",
   passion: "Solving Complex Problems 💡",
   portfolio: "http://imrichardwu.dev/"
 };

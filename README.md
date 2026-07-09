@@ -2,7 +2,7 @@
 
 # Hey, I'm Richard 👋
 
-**Student · Software Engineer · Tech Enthusiast**
+**Student · Software Engineer · FOSS Enthusiast**
 
 [Portfolio](https://imrichardwu.dev) ·
 [LinkedIn](https://www.linkedin.com/in/imrichardwu/) ·

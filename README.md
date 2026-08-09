@@ -30,7 +30,7 @@ const Richard = {
   <tr>
     <td align="center" style="padding: 12px;">
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=imrichardwu&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=imrichardwu&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true"
         height="160"
         alt="GitHub Stats"
       />

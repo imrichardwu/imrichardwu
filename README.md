@@ -37,7 +37,7 @@ const Richard = {
     </td>
     <td align="center" style="padding: 12px;">
      <img
-        src="https://streak-stats.demolab.com/?user=imrichardwu&theme=tokyonight&hide_border=true"
+        src="https://streak-stats.demolab.com?user=imrichardwu&theme=tokyonight&hide_border=true"
         height="160"
         alt="GitHub Streak"
       />
